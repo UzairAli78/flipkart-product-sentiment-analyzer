@@ -7,11 +7,10 @@ pydantic==2.5.3
 
 # NLP — Primary: Hugging Face Transformers + DistilBERT
 transformers==4.37.0
-torch==2.1.2          # CPU-only; use torch+cu118 for GPU
---extra-index-url https://download.pytorch.org/whl/cpu
-
+torch==2.1.2 --index-url https://download.pytorch.org/whl/cpu
 # NLP — Fallback: VADER sentiment
 vaderSentiment==3.3.2
 
 # Utilities
 numpy==1.26.3
+
