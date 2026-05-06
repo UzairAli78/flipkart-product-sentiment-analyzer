@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "author": "Rahul Sharma, Delhi",
+    "rating": 5,
+    "title": "Absolutely worth every rupee!",
+    "text": "Been using this for 2 months now and I am thoroughly impressed. Build quality is top notch and performance is flawless. Battery lasts the whole day easily. Delivery was also super fast. Highly recommended to everyone!",
+    "date": "14 Apr, 2025"
+  },
+  {
+    "id": 2,
+    "author": "Priya Patel, Mumbai",
+    "rating": 1,
+    "title": "Worst purchase I ever made",
+    "text": "Completely disappointed. The product stopped working within 10 days. Customer care was of no help and they kept asking me to visit the service centre which is very far from my location. Total waste of money. Please avoid.",
+    "date": "10 Apr, 2025"
+  },
+  {
+    "id": 3,
+    "author": "Amit Verma, Bangalore",
+    "rating": 4,
+    "title": "Good product overall",
+    "text": "Pretty satisfied with the purchase. Works as advertised and the build feels premium. Only minor complaint is the setup process was a bit confusing. Once set up it runs perfectly. Would recommend to friends.",
+    "date": "8 Apr, 2025"
+  },
+  {
+    "id": 4,
+    "author": "Sneha Reddy, Hyderabad",
+    "rating": 5,
+    "title": "Exceeded my expectations!",
+    "text": "I was sceptical before buying but this product has truly surprised me. The quality is excellent and it works perfectly right out of the box. Packaging was very good too. Five stars without any hesitation!",
+    "date": "5 Apr, 2025"
+  },
+  {
+    "id": 5,
+    "author": "Vikram Singh, Jaipur",
+    "rating": 2,
+    "title": "Not up to the mark",
+    "text": "Expected much better at this price point. The product feels cheap and plasticky. After one week of use I can already see the finish wearing off. There are much better options available for this price. Regret buying this.",
+    "date": "2 Apr, 2025"
+  },
+  {
+    "id": 6,
+    "author": "Anjali Gupta, Pune",
+    "rating": 5,
+    "title": "Brilliant! Very happy with this",
+    "text": "This is genuinely one of the best purchases I have made on Flipkart. Quality is outstanding, delivery was fast, and the product works exactly as shown. My whole family is impressed. Will definitely buy again.",
+    "date": "30 Mar, 2025"
+  },
+  {
+    "id": 7,
+    "author": "Kiran Kumar, Chennai",
+    "rating": 3,
+    "title": "Average experience",
+    "text": "The product is decent but nothing extraordinary. It does its job but I feel it is slightly overpriced for what you get. Build quality is acceptable. Not bad but not great either. Three stars seems fair.",
+    "date": "27 Mar, 2025"
+  },
+  {
+    "id": 8,
+    "author": "Rohit Joshi, Ahmedabad",
+    "rating": 1,
+    "title": "Received damaged product",
+    "text": "The product arrived with a crack on the side. Clearly not packed properly. Raised a return request immediately. The whole process has been very frustrating. Flipkart customer service was also not helpful. Very disappointed.",
+    "date": "25 Mar, 2025"
+  },
+  {
+    "id": 9,
+    "author": "Deepa Nair, Kochi",
+    "rating": 4,
+    "title": "Really good value for money",
+    "text": "Very pleased with this purchase. The quality is noticeably better than other brands I tried at this price. Setup was simple and it has been working reliably for the past month. Minor packaging issue but product itself is great.",
+    "date": "22 Mar, 2025"
+  },
+  {
+    "id": 10,
+    "author": "Suresh Iyer, Coimbatore",
+    "rating": 5,
+    "title": "Outstanding quality!",
+    "text": "Simply brilliant. The moment I unboxed it I could tell the quality was premium. Performance has been flawless and it looks exactly like the pictures. Fast delivery too. One of my best purchases this year. Highly recommended.",
+    "date": "20 Mar, 2025"
+  },
+  {
+    "id": 11,
+    "author": "Meena Chakraborty, Kolkata",
+    "rating": 2,
+    "title": "Disappointed with quality",
+    "text": "The product looks good in photos but in reality the quality is not up to the mark. Feels cheap and I am worried about its durability. For this price I expected much better. Would not recommend. Check other options first.",
+    "date": "18 Mar, 2025"
+  },
+  {
+    "id": 12,
+    "author": "Arjun Mehta, Surat",
+    "rating": 5,
+    "title": "Perfect in every way",
+    "text": "Could not be happier with this product. It is exactly what I needed and the quality is far better than I expected. Using it daily for the past 6 weeks with zero issues. Fast shipping and great packaging. Will buy again.",
+    "date": "15 Mar, 2025"
+  },
+  {
+    "id": 13,
+    "author": "Kavitha Sundaram, Madurai",
+    "rating": 3,
+    "title": "Okay but could be better",
+    "text": "The product functions as described but feels a bit basic for the price. Nothing impressive but nothing terrible either. If you find it on sale it might be worth it. At full price I would suggest looking at alternatives first.",
+    "date": "12 Mar, 2025"
+  },
+  {
+    "id": 14,
+    "author": "Nikhil Bose, Kolkata",
+    "rating": 4,
+    "title": "Good buy, recommended",
+    "text": "Solid product that does exactly what it promises. Build quality is good and it has held up well over several weeks of daily use. Quick delivery from Flipkart as well. Lost one star only because the instruction manual is unclear.",
+    "date": "10 Mar, 2025"
+  },
+  {
+    "id": 15,
+    "author": "Pooja Agarwal, Lucknow",
+    "rating": 1,
+    "title": "Complete waste of money",
+    "text": "This product is an absolute disgrace. Stopped working after 5 days. When I contacted support they told me it was my fault. Absolutely terrible experience. Do not buy this. I wish I had read the negative reviews first.",
+    "date": "8 Mar, 2025"
+  },
+  {
+    "id": 16,
+    "author": "Sanjay Pillai, Trivandrum",
+    "rating": 5,
+    "title": "Fantastic product!",
+    "text": "I have been using this for nearly two months and it continues to perform brilliantly. Very well built, easy to use, and delivers exactly what it promises. The price is fair for the quality. Strongly recommend this to everyone.",
+    "date": "5 Mar, 2025"
+  },
+  {
+    "id": 17,
+    "author": "Lakshmi Krishnan, Mysore",
+    "rating": 4,
+    "title": "Very satisfying purchase",
+    "text": "Happy with this purchase overall. Works smoothly and the build quality feels solid. Delivery was quick and packaging was excellent. Would have given 5 stars but the product gets slightly warm during extended use. Minor issue though.",
+    "date": "3 Mar, 2025"
+  },
+  {
+    "id": 18,
+    "author": "Rajesh Yadav, Varanasi",
+    "rating": 2,
+    "title": "Below average quality",
+    "text": "Quality is not what I expected from a brand of this reputation. The finish is poor, some edges are sharp, and it does not feel sturdy at all. I am genuinely worried it will break soon. Not worth the money in my opinion.",
+    "date": "28 Feb, 2025"
+  },
+  {
+    "id": 19,
+    "author": "Divya Menon, Calicut",
+    "rating": 5,
+    "title": "Love this product!",
+    "text": "Bought this after weeks of research and I am so glad I did. The quality is exceptional, it is easy to set up, and it works perfectly every single time. Best purchase this year for me. Everyone in my family wants one now.",
+    "date": "25 Feb, 2025"
+  },
+  {
+    "id": 20,
+    "author": "Manoj Tiwari, Bhopal",
+    "rating": 3,
+    "title": "Mixed feelings about this",
+    "text": "Some aspects are good like the design and ease of use but the performance is inconsistent. Some days it works great and some days it struggles. For this price I expected more reliability. Decent product but not exceptional.",
+    "date": "22 Feb, 2025"
+  },
+  {
+    "id": 21,
+    "author": "Sunita Mishra, Nagpur",
+    "rating": 5,
+    "title": "Superb! Highly recommended",
+    "text": "I gifted this to my husband and he absolutely loves it. The quality is premium and it has been working flawlessly since day one. Packaging was immaculate and delivery was ahead of schedule. Will definitely buy from this seller again.",
+    "date": "20 Feb, 2025"
+  },
+  {
+    "id": 22,
+    "author": "Aakash Dubey, Patna",
+    "rating": 1,
+    "title": "Defective product received",
+    "text": "Received a clearly defective piece. It made a strange noise from the very first use. Seller refused to replace without an inspection and the process has been going on for 3 weeks now. Terrible after sales experience. Avoid.",
+    "date": "18 Feb, 2025"
+  },
+  {
+    "id": 23,
+    "author": "Ritu Saxena, Indore",
+    "rating": 4,
+    "title": "Really impressed overall",
+    "text": "Did not expect this level of quality at this price point. It is well built, performs consistently, and looks great. Delivery was on time. The only reason I did not give 5 stars is the packaging could be improved. Very good buy.",
+    "date": "15 Feb, 2025"
+  },
+  {
+    "id": 24,
+    "author": "Ganesh Rajan, Coimbatore",
+    "rating": 5,
+    "title": "Best in this price range!",
+    "text": "Researched for weeks before finally buying this and I have absolutely no regrets. Performance is top class, build quality is excellent, and it looks premium. Customer support was also very responsive. Brilliant value for money.",
+    "date": "12 Feb, 2025"
+  },
+  {
+    "id": 25,
+    "author": "Shweta Pandey, Kanpur",
+    "rating": 2,
+    "title": "Not satisfied at all",
+    "text": "The product looked good in the listing but in reality it is underwhelming. Does not perform consistently and feels flimsy when you hold it. For this price I expected something much more robust. Will not purchase from this brand again.",
+    "date": "10 Feb, 2025"
+  },
+  {
+    "id": 26,
+    "author": "Pranav Kulkarni, Nashik",
+    "rating": 5,
+    "title": "Absolutely brilliant purchase",
+    "text": "This product has changed my daily routine for the better. It works exactly as described, quality is top tier, and I have had zero issues in two months. Delivery was also very quick. Cannot recommend this enough to everyone.",
+    "date": "8 Feb, 2025"
+  },
+  {
+    "id": 27,
+    "author": "Nandini Shah, Vadodara",
+    "rating": 3,
+    "title": "Decent but nothing special",
+    "text": "It works fine and does what it says. No major complaints but equally no reason to be excited. Average product at an average price. If you need something basic and reliable it will do the job. Would not rave about it though.",
+    "date": "5 Feb, 2025"
+  },
+  {
+    "id": 28,
+    "author": "Tushar Pawar, Aurangabad",
+    "rating": 4,
+    "title": "Good product, fast delivery",
+    "text": "Very pleased with this purchase. Works as advertised, looks great, and delivery was much faster than expected. Build quality is solid and I have been using it daily without any issues. Would recommend to anyone looking at this product.",
+    "date": "3 Feb, 2025"
+  },
+  {
+    "id": 29,
+    "author": "Harini Balaji, Trichy",
+    "rating": 1,
+    "title": "Stopped working in a week",
+    "text": "Completely stopped working after just one week of careful use. This is unacceptable for the price paid. Support wanted me to ship it back at my own cost which is ridiculous. Extremely unhappy with both the product and the service.",
+    "date": "1 Feb, 2025"
+  },
+  {
+    "id": 30,
+    "author": "Varun Kapoor, Chandigarh",
+    "rating": 5,
+    "title": "Delighted with this product!",
+    "text": "From the unboxing experience to actual performance this product delivers on all fronts. Quality is clearly premium and it has been working brilliantly every single day. Extremely happy with my purchase and would buy again without hesitation.",
+    "date": "28 Jan, 2025"
+  },
+  {
+    "id": 31,
+    "author": "Ishaan Bhatt, Ahmedabad",
+    "rating": 4,
+    "title": "Solid value for money",
+    "text": "Good quality product that performs reliably. Have been using it for over a month with no issues at all. Design is attractive and it feels well made. Small improvements could be made to the packaging but the product itself is great.",
+    "date": "25 Jan, 2025"
+  },
+  {
+    "id": 32,
+    "author": "Smita Desai, Pune",
+    "rating": 2,
+    "title": "Poor after sales support",
+    "text": "Product quality is average and after sales support is terrible. Had an issue in the second week and the seller was completely unhelpful. Would not purchase again. There are better brands available with much better customer service.",
+    "date": "22 Jan, 2025"
+  },
+  {
+    "id": 33,
+    "author": "Kartik Nambiar, Kochi",
+    "rating": 5,
+    "title": "Incredible quality!",
+    "text": "Genuinely one of the best products I have purchased online. Build quality is exceptional, performance is flawless, and it looks even better in person. My friends were all impressed. Will definitely be buying more products from this brand.",
+    "date": "20 Jan, 2025"
+  },
+  {
+    "id": 34,
+    "author": "Ananya Roy, Kolkata",
+    "rating": 3,
+    "title": "Average product at best",
+    "text": "Nothing great to say about this. It works but barely meets expectations for the price. The design is okay and performance is inconsistent. I would say look around before committing to this purchase. There may be better options.",
+    "date": "18 Jan, 2025"
+  },
+  {
+    "id": 35,
+    "author": "Yash Malhotra, Delhi",
+    "rating": 5,
+    "title": "Game changer for me!",
+    "text": "This product has made such a positive difference to my daily life. Everything about it is excellent — design, quality, performance. Setup took under 5 minutes and it has worked perfectly ever since. Worth every single rupee spent.",
+    "date": "15 Jan, 2025"
+  },
+  {
+    "id": 36,
+    "author": "Padma Subramaniam, Chennai",
+    "rating": 1,
+    "title": "Fraud product listing",
+    "text": "The product in the listing looks completely different from what was delivered. Obvious quality downgrade from what was shown in images. Raised a complaint but resolution has been very slow. This is misleading advertising. Very angry.",
+    "date": "12 Jan, 2025"
+  },
+  {
+    "id": 37,
+    "author": "Akshay Patil, Solapur",
+    "rating": 4,
+    "title": "Recommended with confidence",
+    "text": "A genuinely good product that performs consistently well. Used it every day for six weeks and it still works like new. The build quality gives confidence it will last a long time. Small instruction manual issues aside it is a great buy.",
+    "date": "10 Jan, 2025"
+  },
+  {
+    "id": 38,
+    "author": "Bindiya Chawla, Amritsar",
+    "rating": 5,
+    "title": "Jaw dropping quality!",
+    "text": "I am completely blown away by the quality of this product. It feels luxurious, works flawlessly, and has held up beautifully with daily use. Best online purchase I have made in years. Will definitely recommend to all my friends and family.",
+    "date": "8 Jan, 2025"
+  },
+  {
+    "id": 39,
+    "author": "Chetan Srivastava, Allahabad",
+    "rating": 2,
+    "title": "Quality has gone down",
+    "text": "Bought this same brand before and quality was great. This time something has changed. Build feels cheaper, performance is inconsistent, and it feels like corners were cut. Very disappointing compared to earlier experience with this brand.",
+    "date": "5 Jan, 2025"
+  },
+  {
+    "id": 40,
+    "author": "Preeti Jain, Udaipur",
+    "rating": 5,
+    "title": "Simply the best!",
+    "text": "No complaints whatsoever. This product is exactly what I was looking for and it exceeded every expectation I had. Premium build, flawless performance, and great packaging. Highly satisfied with my Flipkart purchase. Five stars easily.",
+    "date": "2 Jan, 2025"
+  },
+  {
+    "id": 41,
+    "author": "Gaurav Tomar, Gurgaon",
+    "rating": 4,
+    "title": "Happy with the purchase",
+    "text": "Overall a very positive experience. Product works great, looks premium, and delivery was faster than expected. Minor issue with the instruction guide but nothing that a quick online search could not fix. Would recommend this product.",
+    "date": "30 Dec, 2024"
+  },
+  {
+    "id": 42,
+    "author": "Madhuri Kulkarni, Belgaum",
+    "rating": 1,
+    "title": "Not worth buying",
+    "text": "Save your money and look elsewhere. The product quality is very poor and it started showing problems within the first two weeks. Customer support was rude and unhelpful. This is one purchase I deeply regret making. Zero stars if possible.",
+    "date": "28 Dec, 2024"
+  },
+  {
+    "id": 43,
+    "author": "Naveen Gopalan, Hyderabad",
+    "rating": 5,
+    "title": "Excellent product!",
+    "text": "Very happy with this purchase. Quality is clearly above average, performance is outstanding, and it looks fantastic. Flipkart delivery was also very quick and packaging was excellent. Will be buying more from this brand in the future.",
+    "date": "25 Dec, 2024"
+  },
+  {
+    "id": 44,
+    "author": "Rekha Acharya, Bhubaneswar",
+    "rating": 3,
+    "title": "Fair product overall",
+    "text": "Nothing to complain about but nothing exciting either. It works as described, arrived on time, and looks reasonable in person. For the price it is a fair deal. I would probably consider other options before buying this again though.",
+    "date": "22 Dec, 2024"
+  },
+  {
+    "id": 45,
+    "author": "Sachin Wagh, Nagpur",
+    "rating": 4,
+    "title": "Good quality, satisfied",
+    "text": "Satisfied with this purchase. The product is well built and performs reliably. Have been using it for two months without a single issue. Packaging was neat and delivery was on time. A solid buy that I would recommend to others.",
+    "date": "20 Dec, 2024"
+  },
+  {
+    "id": 46,
+    "author": "Tanvi Hegde, Mangalore",
+    "rating": 2,
+    "title": "Expected much better",
+    "text": "Based on the star rating and price I had high expectations. The reality is disappointing. Quality feels budget level and performance is not consistent. I feel the positive reviews on this product are misleading. Should have checked more carefully.",
+    "date": "18 Dec, 2024"
+  },
+  {
+    "id": 47,
+    "author": "Uday Kamath, Hubli",
+    "rating": 5,
+    "title": "Extremely satisfied!",
+    "text": "This is exactly what I needed and it performs beyond expectations. Premium quality that you can feel immediately. Has been working perfectly for three months of daily use. Great purchase and great service from Flipkart. Fully recommended.",
+    "date": "15 Dec, 2024"
+  },
+  {
+    "id": 48,
+    "author": "Veena Rao, Vijayawada",
+    "rating": 4,
+    "title": "Really good product",
+    "text": "Impressed with the overall quality and performance. It is reliable, looks great, and is easy to use from day one. The price is justified for what you get. A minor cosmetic issue on arrival but product works perfectly. Happy customer.",
+    "date": "12 Dec, 2024"
+  },
+  {
+    "id": 49,
+    "author": "Wasim Khan, Pune",
+    "rating": 1,
+    "title": "Terrible experience",
+    "text": "Product stopped working after 8 days. Seller denied any defect and blamed me for misuse. Flipkart support has been going back and forth for weeks with no resolution. This is unacceptable. Strongly advise others to stay away from this product.",
+    "date": "10 Dec, 2024"
+  },
+  {
+    "id": 50,
+    "author": "Zara Ahmed, Hyderabad",
+    "rating": 5,
+    "title": "Love love love this product!",
+    "text": "Could not be more satisfied. This product is beautifully made, incredibly easy to use, and has performed without a single problem since I bought it. Fast delivery and perfect packaging too. One of the smartest purchases I have ever made.",
+    "date": "8 Dec, 2024"
+  }
+]
